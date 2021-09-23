@@ -35,7 +35,6 @@ export default class Services extends Component{
                       <span>{icon}</span>
                       <h6>{title}</h6>
                       <p>{info}</p>
-
                   </article>
                })
            }
